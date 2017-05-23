@@ -1,4 +1,5 @@
-#Getting and Cleaning Data - Course Project#
+**Getting and Cleaning Data - Course Project**
+
 **Overview**
 
 The purpose of this cookbook document is to provide details about the data collection, transformation, cleaning and working steps on a dat#a set
